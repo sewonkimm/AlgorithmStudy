@@ -7,7 +7,7 @@
 |  1   |       [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)       |
 |  2   |       [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)       |
 |  3   |       [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)       |
-|  4   |      [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/42839)       |
+|  4   |      [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)       |
 |  5   |       [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)       |
 |  6   |  [서울에서 경산까지](https://programmers.co.kr/learn/courses/30/lessons/42899)   |
 |  7   |      [카드 게임](https://programmers.co.kr/learn/courses/30/lessons/42896)       |
