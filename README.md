@@ -24,3 +24,23 @@
 |  18  |     [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)      |
 |  19  |       [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)       |
 |  20  |      [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)      |
+
+## week2
+
+| 번호 |                                       문제                                       |
+| :--: | :------------------------------------------------------------------------------: |
+|  1   |       [쇠막대기](https://programmers.co.kr/learn/courses/30/lessons/42585)       |
+|  2   |       [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)       |
+|  3   |   [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)       |
+|  4   |    [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861)       |
+|  5   |    [타일 장식물](https://programmers.co.kr/learn/courses/30/lessons/43104)       |
+|  6   |        [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)   |
+|  7   |      [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)       |
+|  8   |     [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)          |
+|  9   | [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)        |
+|  10  |           [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)   |
+|  11  |          [멀리뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914)    |
+|  12  |   [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)      |
+|  13  |    [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)      |
+|  14  |      [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)         |
+|  15  |      [숫자 야구](https://programmers.co.kr/learn/courses/30/lessons/42841)       |
