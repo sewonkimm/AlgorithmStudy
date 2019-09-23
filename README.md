@@ -64,3 +64,24 @@
 |  13  |   [줄 서는 방법](https://programmers.co.kr/learn/courses/30/lessons/12936)   |
 |  14  |      [도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897)      |
 |  15  |       [저울](https://programmers.co.kr/learn/courses/30/lessons/42886)       |
+
+
+## week4
+
+| 번호 |                                     문제                                     |
+| :--: | :--------------------------------------------------------------------------: |
+|  1   |      [로프 ](https://www.acmicpc.net/problem/2217)                           |
+|  2   |     [영화감독 숌](https://www.acmicpc.net/problem/1436)                      |
+|  3   |   [01타일](https://www.acmicpc.net/problem/2231)                             |
+|  4   |   [조세퍼스 문제0](https://www.acmicpc.net/problem/11866)                    |
+|  5   | [회전하는 큐](https://www.acmicpc.net/problem/1021)                          | 
+|  6   |      [유기농 배추](https://www.acmicpc.net/problem/1012)                     |
+|  7   |   [단어 공부](https://www.acmicpc.net/problem/1157)                          |
+|  8   |     [회의실 배정](https://www.acmicpc.net/problem/1931)                      |
+|  9   |       [분해합](https://www.acmicpc.net/problem/2231)                         |
+|  10  |    [LCS](https://www.acmicpc.net/problem/9251)                              |
+|  11  |  [평범한 배낭](https://www.acmicpc.net/problem/12865)                        |
+|  12  | [가운데를 말해요](https://www.acmicpc.net/problem/1655)                      |
+|  13  |   [바이러스](https://www.acmicpc.net/problem/2606)                           |
+|  14  |      [그룹 단어 체커](https://www.acmicpc.net/problem/1316)                  |
+|  15  |       [균형잡힌 세상](https://www.acmicpc.net/problem/4949)                  |
