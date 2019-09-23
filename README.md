@@ -72,7 +72,7 @@
 | :--: | :--------------------------------------------------------------------------: |
 |  1   |      [로프 ](https://www.acmicpc.net/problem/2217)                           |
 |  2   |     [영화감독 숌](https://www.acmicpc.net/problem/1436)                      |
-|  3   |   [01타일](https://www.acmicpc.net/problem/2231)                             |
+|  3   |   [01타일](https://www.acmicpc.net/problem/1904)                             |
 |  4   |   [조세퍼스 문제0](https://www.acmicpc.net/problem/11866)                    |
 |  5   | [회전하는 큐](https://www.acmicpc.net/problem/1021)                          | 
 |  6   |      [유기농 배추](https://www.acmicpc.net/problem/1012)                     |
