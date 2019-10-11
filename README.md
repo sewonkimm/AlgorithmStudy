@@ -65,23 +65,47 @@
 |  14  |      [도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897)      |
 |  15  |       [저울](https://programmers.co.kr/learn/courses/30/lessons/42886)       |
 
-
 ## week4
 
-| 번호 |                                     문제                                     |
-| :--: | :--------------------------------------------------------------------------: |
-|  1   |      [로프 ](https://www.acmicpc.net/problem/2217)                           |
-|  2   |     [영화감독 숌](https://www.acmicpc.net/problem/1436)                      |
-|  3   |   [01타일](https://www.acmicpc.net/problem/1904)                             |
-|  4   |   [조세퍼스 문제0](https://www.acmicpc.net/problem/11866)                    |
-|  5   | [회전하는 큐](https://www.acmicpc.net/problem/1021)                          | 
-|  6   |      [유기농 배추](https://www.acmicpc.net/problem/1012)                     |
-|  7   |   [단어 공부](https://www.acmicpc.net/problem/1157)                          |
-|  8   |     [회의실 배정](https://www.acmicpc.net/problem/1931)                      |
-|  9   |       [분해합](https://www.acmicpc.net/problem/2231)                         |
-|  10  |    [LCS](https://www.acmicpc.net/problem/9251)                              |
-|  11  |  [평범한 배낭](https://www.acmicpc.net/problem/12865)                        |
-|  12  | [가운데를 말해요](https://www.acmicpc.net/problem/1655)                      |
-|  13  |   [바이러스](https://www.acmicpc.net/problem/2606)                           |
-|  14  |      [그룹 단어 체커](https://www.acmicpc.net/problem/1316)                  |
-|  15  |       [균형잡힌 세상](https://www.acmicpc.net/problem/4949)                  |
+| 번호 |                          문제                           |
+| :--: | :-----------------------------------------------------: |
+|  1   |      [로프 ](https://www.acmicpc.net/problem/2217)      |
+|  2   |   [영화감독 숌](https://www.acmicpc.net/problem/1436)   |
+|  3   |     [01타일](https://www.acmicpc.net/problem/1904)      |
+|  4   | [조세퍼스 문제0](https://www.acmicpc.net/problem/11866) |
+|  5   |   [회전하는 큐](https://www.acmicpc.net/problem/1021)   |
+|  6   |   [유기농 배추](https://www.acmicpc.net/problem/1012)   |
+|  7   |    [단어 공부](https://www.acmicpc.net/problem/1157)    |
+|  8   |   [회의실 배정](https://www.acmicpc.net/problem/1931)   |
+|  9   |     [분해합](https://www.acmicpc.net/problem/2231)      |
+|  10  |       [LCS](https://www.acmicpc.net/problem/9251)       |
+|  11  |  [평범한 배낭](https://www.acmicpc.net/problem/12865)   |
+|  12  | [가운데를 말해요](https://www.acmicpc.net/problem/1655) |
+|  13  |    [바이러스](https://www.acmicpc.net/problem/2606)     |
+|  14  | [그룹 단어 체커](https://www.acmicpc.net/problem/1316)  |
+|  15  |  [균형잡힌 세상](https://www.acmicpc.net/problem/4949)  |
+
+## week5
+
+| 번호 |                            문제                            |
+| :--: | :--------------------------------------------------------: |
+|  1   |    [파도반 수열](https://www.acmicpc.net/problem/9461)     |
+|  2   | [최소비용 구하기 2](https://www.acmicpc.net/problem/11779) |
+|  3   |    [문자열 반복](https://www.acmicpc.net/problem/2675)     |
+|  4   |        [덩치](https://www.acmicpc.net/problem/7568)        |
+|  5   |     [프린터 큐](https://www.acmicpc.net/problem/1966)      |
+|  6   |   [1로 만들기 2](https://www.acmicpc.net/problem/12852)    |
+|  7   |    [단어의 개수](https://www.acmicpc.net/problem/1152)     |
+|  8   | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) |
+|  9   |       [카드2](https://www.acmicpc.net/problem/2164)        |
+|  10  |   [상근이의 여행](https://www.acmicpc.net/problem/9372)    |
+|  11  |     [숫자의 합](https://www.acmicpc.net/problem/11720)     |
+|  12  |       [다이얼](https://www.acmicpc.net/problem/5622)       |
+|  13  |       [블랙잭](https://www.acmicpc.net/problem/2798)       |
+|  14  |       [동전0](https://www.acmicpc.net/problem/11047)       |
+|  15  |         [AC](https://www.acmicpc.net/problem/5430)         |
+|  16  | [크로아티아 알파벳](https://www.acmicpc.net/problem/2941)  |
+|  17  |   [잃어버린 괄호](https://www.acmicpc.net/problem/1541)    |
+|  18  |      [최단경로](https://www.acmicpc.net/problem/1753)      |
+|  19  |  [문자열 집합 판별](https://www.acmicpc.net/problem/9250)  |
+|  20  |    [팰린드롬??](https://www.acmicpc.net/problem/11046)     |
