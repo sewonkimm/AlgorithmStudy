@@ -69,7 +69,7 @@
 
 | 번호 |                          문제                           |
 | :--: | :-----------------------------------------------------: |
-|  1   |      [로프 ](https://www.acmicpc.net/problem/2217)      |
+|  1   |      [로프](https://www.acmicpc.net/problem/2217)       |
 |  2   |   [영화감독 숌](https://www.acmicpc.net/problem/1436)   |
 |  3   |     [01타일](https://www.acmicpc.net/problem/1904)      |
 |  4   | [조세퍼스 문제0](https://www.acmicpc.net/problem/11866) |
