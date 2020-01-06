@@ -1,4 +1,29 @@
 # 알고리즘 스터디
+## 2020 - week1
+
+| 번호 |                                  문제                                  |
+| :--: | :--------------------------------------------------------------------: |
+|  1   | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)              |
+|  2   | [피보나치 수 5](https://www.acmicpc.net/problem/10870)                 |
+|  3   | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)           |
+|  4   | [단어 정렬](https://www.acmicpc.net/problem/1181)              |
+|  5   | [피보나치 수 2](https://www.acmicpc.net/problem/2748)            |
+|  6   | [RGB 거리](https://www.acmicpc.net/problem/1149)              |
+|  7   | [정수 삼각형](https://www.acmicpc.net/problem/1932)           |
+|  8   | [동전 0](https://www.acmicpc.net/problem/11047)             |
+|  9   | [ATM](https://www.acmicpc.net/problem/11399)                  |
+|  10  | [잃어버린 괄호](https://www.acmicpc.net/problem/1541)        |
+|  11  | [토마토](https://www.acmicpc.net/problem/7569)        |
+|  12  | [숨바꼭질](https://www.acmicpc.net/problem/1697)        |
+|  13  | [최단경로](https://www.acmicpc.net/problem/1753)             |
+|  14  | [최대힙](https://www.acmicpc.net/problem/11279)              |
+|  15  | [최소힙](https://www.acmicpc.net/problem/1927)               |
+|  16  | [절대값 힙](https://www.acmicpc.net/problem/11286)        |
+|  17  | [가운데를 말해요](https://www.acmicpc.net/problem/1655)        |
+|  18  | [트리 순회](https://www.acmicpc.net/problem/1991)        |
+|  19  | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)        |
+|  20  | [단어의 개수](https://www.acmicpc.net/problem/1152)        |
+
 
 ## week8
 
