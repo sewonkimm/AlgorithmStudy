@@ -9,7 +9,6 @@ public class MaxHeap2_11279 {
 		PriorityQueue q = new PriorityQueue<>(new Comparator<Integer>() { 
 			@Override
 			public int compare(Integer o1, Integer o2) {
-				// TODO Auto-generated method stub
 				return o2.compareTo(o1);
 			}
 		});
