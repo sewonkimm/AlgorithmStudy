@@ -1,4 +1,24 @@
 # 알고리즘 스터디
+
+## 2020 -week2
+| 번호 |                                  문제                                  |
+| :--: | :--------------------------------------------------------------------: |
+|  1   | [팩토리얼](https://www.acmicpc.net/problem/10872)              |
+|  2   | [별 찍기 - 10](https://www.acmicpc.net/problem/2447)                 |
+|  3   | [손익분기점](https://www.acmicpc.net/problem/1712)           |
+|  4   | [설탕배달](https://www.acmicpc.net/problem/2839)              |
+|  5   | [전깃줄](https://www.acmicpc.net/problem/2565)            |
+|  6   | [계단 오르기](https://www.acmicpc.net/problem/2579)              |
+|  7   | [특정한 최단 경로](https://www.acmicpc.net/problem/1504)           |
+|  8   | [제로](https://www.acmicpc.net/problem/10773)             |
+|  9   | [괄호](https://www.acmicpc.net/problem/9012)                  |
+|  10  | [큐2](https://www.acmicpc.net/problem/18258)        |
+|  11  | [카드2](https://www.acmicpc.net/problem/2164)        |
+|  12  | [덱](https://www.acmicpc.net/problem/10866)        |
+|  13  | [AC](https://www.acmicpc.net/problem/5430)             |
+|  14  | [트리의 지름](https://www.acmicpc.net/problem/1167)              |
+|  15  | [시계 사진들](https://www.acmicpc.net/problem/10266)               |
+
 ## 2020 - week1
 
 | 번호 |                                  문제                                  |
