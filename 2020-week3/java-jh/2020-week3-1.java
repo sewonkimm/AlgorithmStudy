@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+class Main {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		Queue<Integer> q = new LinkedList<Integer>();
