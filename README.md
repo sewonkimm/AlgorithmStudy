@@ -1,5 +1,24 @@
 # 알고리즘 스터디
 
+## 2020 -week3
+| 번호 |                                  문제                                  |
+| :--: | :--------------------------------------------------------------------: |
+|  1   | [프린터큐](https://www.acmicpc.net/problem/1966)              |
+|  2   | [LCS](https://www.acmicpc.net/problem/9251)                 |
+|  3   | [N과 M(1)](https://www.acmicpc.net/problem/15649)           |
+|  4   | [스택 수열](https://www.acmicpc.net/problem/1874)              |
+|  5   | [회의실배정](https://www.acmicpc.net/problem/1931)            |
+|  6   | [운동](https://www.acmicpc.net/problem/1956)              |
+|  7   | [토마토](https://www.acmicpc.net/problem/7576)           |
+|  8   | [토마토(3차원)](https://www.acmicpc.net/problem/7569)             |
+|  9   | [단지번호붙이기](https://www.acmicpc.net/problem/2667)                  |
+|  10  | [나이순 정렬](https://www.acmicpc.net/problem/10814)        |
+|  11  | [별 찍기 - 10](https://www.acmicpc.net/problem/2447)        |
+|  12  | [상근이의 여행](https://www.acmicpc.net/problem/9372)        |
+|  13  | [찾기](https://www.acmicpc.net/problem/1786)             |
+|  14  | [트리의 지름](https://www.acmicpc.net/problem/1167)              |
+|  15  | [개미굴](https://www.acmicpc.net/problem/14725)               |
+
 ## 2020 -week2
 | 번호 |                                  문제                                  |
 | :--: | :--------------------------------------------------------------------: |
