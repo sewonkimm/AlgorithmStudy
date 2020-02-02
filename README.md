@@ -1,5 +1,20 @@
 # 알고리즘 스터디
 
+## 2020 -week4
+| 번호 |                                  문제                                  |
+| :--: | :--------------------------------------------------------------------: |
+|  1   | [문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057)              |
+|  2   | [괄호변환](https://programmers.co.kr/learn/courses/30/lessons/60058)                 |
+|  3   | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)           |
+|  4   | [수 정렬하기](https://www.acmicpc.net/problem/2750)              |
+|  5   | [수 정렬하기2](https://www.acmicpc.net/problem/2751)          |
+|  6   | [2048 (Easy)](https://www.acmicpc.net/problem/12100)              |
+|  7   | [한수](https://www.acmicpc.net/problem/1065)           |
+|  8   | [찾기](https://www.acmicpc.net/problem/1786)             |
+|  9   | [트리의 지름](https://www.acmicpc.net/problem/1167)              |
+|  10  | [개미굴](https://www.acmicpc.net/problem/14725)               |
+
+
 ## 2020 -week3
 | 번호 |                                  문제                                  |
 | :--: | :--------------------------------------------------------------------: |
