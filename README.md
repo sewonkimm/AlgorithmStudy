@@ -1,5 +1,20 @@
 # 알고리즘 스터디
 
+## 2020 -week5
+| 번호 |                                  문제                                  |
+| :--: | :-------------------------------------------------------------------: |
+|  1   | [2×n 타일링](https://www.acmicpc.net/problem/11726)                    |
+|  2   | [블랙잭](https://www.acmicpc.net/problem/2798)                        |
+|  3   | [경로찾기](https://www.acmicpc.net/problem/11403)                      |
+|  4   | [거스름돈](https://www.acmicpc.net/problem/5585)                      |
+|  5   | [분해합](https://www.acmicpc.net/problem/2231)                       |
+|  6   | [나는 요리사다](https://www.acmicpc.net/problem/2953)                |
+|  7   | [알파벳 찾기](https://www.acmicpc.net/problem/10809)                 |
+|  8   | [덩치](https://www.acmicpc.net/problem/7568)                        |
+|  9   | [타일 채우기](https://www.acmicpc.net/problem/2133)                 |
+|  10  | [n과 m(3)](https://www.acmicpc.net/problem/15651)                   |
+
+
 ## 2020 -week4
 | 번호 |                                  문제                                  |
 | :--: | :--------------------------------------------------------------------: |
