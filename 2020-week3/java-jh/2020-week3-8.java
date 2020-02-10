@@ -11,7 +11,7 @@ class Main {
         int[][][] tomatoes = new int[n][m][h];
         int[][][] curTomatoes = new int[n][m][h];
         int answer = 0;
-        Queue<int[]> q = new LinkedList();
+        Queue<int[]> q = new LinkedList<int[]>();
         for (int i = 0; i < h; i++) {
             for (int j = 0; j < n; j++) {
                 st = new StringTokenizer(br.readLine());
