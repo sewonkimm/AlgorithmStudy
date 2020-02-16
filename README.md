@@ -1,5 +1,19 @@
 # 알고리즘 스터디
 
+## 2020 -week6
+| 번호 |                                  문제                                  |
+| :--: | :-------------------------------------------------------------------: |
+|  1   | [팰린드롬??](https://www.acmicpc.net/problem/11046)                    |
+|  2   | [탈옥](https://www.acmicpc.net/problem/9376)                          |
+|  3   | [가르침](https://www.acmicpc.net/problem/1062)                        |
+|  4   | [동전1](https://www.acmicpc.net/problem/2293)                         |
+|  5   | [1로 만들기](https://www.acmicpc.net/problem/1463)                    |
+|  6   | [쉬운 계단 수](https://www.acmicpc.net/problem/10844)                 |
+|  7   | [연구소](https://www.acmicpc.net/problem/14502)                      |
+|  8   | [적록색약](https://www.acmicpc.net/problem/10026)                     |
+|  9   | [문자열](https://www.acmicpc.net/problem/1120)                        |
+|  10  | [행운의 문자열](https://www.acmicpc.net/problem/1342)                  |
+
 ## 2020 -week5
 | 번호 |                                  문제                                  |
 | :--: | :-------------------------------------------------------------------: |
