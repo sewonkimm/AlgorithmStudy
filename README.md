@@ -1,112 +1,129 @@
 # 알고리즘 스터디
 
+## 2020 -week7
+
+| 번호 |                           문제                            |
+| :--: | :-------------------------------------------------------: |
+|  1   | [동아리 회장 선거](https://codeup.kr/problem.php?id=2608) |
+|  2   |      [캔디팡](https://codeup.kr/problem.php?id=2605)      |
+|  3   |  [기억력테스트7](https://codeup.kr/problem.php?id=3007)   |
+|  4   |      [리모콘](https://codeup.kr/problem.php?id=3120)      |
+|  5   |     [거스름돈](https://codeup.kr/problem.php?id=3301)     |
+|  6   |   [사탕 줍기 2](https://codeup.kr/problem.php?id=3515)    |
+|  7   | [단지 번호 붙이기](https://codeup.kr/problem.php?id=4421) |
+|  8   | [전광판 전구 조작](https://codeup.kr/problem.php?id=4060) |
+|  9   | [극장 좌석 배치1](https://codeup.kr/problem.php?id=2651)  |
+|  10  |       [탈옥](https://www.acmicpc.net/problem/9376)        |
+
 ## 2020 -week6
-| 번호 |                                  문제                                  |
-| :--: | :-------------------------------------------------------------------: |
-|  1   | [팰린드롬??](https://www.acmicpc.net/problem/11046)                    |
-|  2   | [탈옥](https://www.acmicpc.net/problem/9376)                          |
-|  3   | [가르침](https://www.acmicpc.net/problem/1062)                        |
-|  4   | [동전1](https://www.acmicpc.net/problem/2293)                         |
-|  5   | [1로 만들기](https://www.acmicpc.net/problem/1463)                    |
-|  6   | [쉬운 계단 수](https://www.acmicpc.net/problem/10844)                 |
-|  7   | [연구소](https://www.acmicpc.net/problem/14502)                      |
-|  8   | [적록색약](https://www.acmicpc.net/problem/10026)                     |
-|  9   | [문자열](https://www.acmicpc.net/problem/1120)                        |
-|  10  | [행운의 문자열](https://www.acmicpc.net/problem/1342)                  |
+
+| 번호 |                         문제                          |
+| :--: | :---------------------------------------------------: |
+|  1   |  [팰린드롬??](https://www.acmicpc.net/problem/11046)  |
+|  2   |     [탈옥](https://www.acmicpc.net/problem/9376)      |
+|  3   |    [가르침](https://www.acmicpc.net/problem/1062)     |
+|  4   |     [동전1](https://www.acmicpc.net/problem/2293)     |
+|  5   |  [1로 만들기](https://www.acmicpc.net/problem/1463)   |
+|  6   | [쉬운 계단 수](https://www.acmicpc.net/problem/10844) |
+|  7   |    [연구소](https://www.acmicpc.net/problem/14502)    |
+|  8   |   [적록색약](https://www.acmicpc.net/problem/10026)   |
+|  9   |    [문자열](https://www.acmicpc.net/problem/1120)     |
+|  10  | [행운의 문자열](https://www.acmicpc.net/problem/1342) |
 
 ## 2020 -week5
-| 번호 |                                  문제                                  |
-| :--: | :-------------------------------------------------------------------: |
-|  1   | [2×n 타일링](https://www.acmicpc.net/problem/11726)                    |
-|  2   | [블랙잭](https://www.acmicpc.net/problem/2798)                        |
-|  3   | [경로찾기](https://www.acmicpc.net/problem/11403)                      |
-|  4   | [거스름돈](https://www.acmicpc.net/problem/5585)                      |
-|  5   | [분해합](https://www.acmicpc.net/problem/2231)                       |
-|  6   | [나는 요리사다](https://www.acmicpc.net/problem/2953)                |
-|  7   | [알파벳 찾기](https://www.acmicpc.net/problem/10809)                 |
-|  8   | [덩치](https://www.acmicpc.net/problem/7568)                        |
-|  9   | [타일 채우기](https://www.acmicpc.net/problem/2133)                 |
-|  10  | [n과 m(3)](https://www.acmicpc.net/problem/15651)                   |
 
+| 번호 |                         문제                          |
+| :--: | :---------------------------------------------------: |
+|  1   |  [2×n 타일링](https://www.acmicpc.net/problem/11726)  |
+|  2   |    [블랙잭](https://www.acmicpc.net/problem/2798)     |
+|  3   |   [경로찾기](https://www.acmicpc.net/problem/11403)   |
+|  4   |   [거스름돈](https://www.acmicpc.net/problem/5585)    |
+|  5   |    [분해합](https://www.acmicpc.net/problem/2231)     |
+|  6   | [나는 요리사다](https://www.acmicpc.net/problem/2953) |
+|  7   | [알파벳 찾기](https://www.acmicpc.net/problem/10809)  |
+|  8   |     [덩치](https://www.acmicpc.net/problem/7568)      |
+|  9   |  [타일 채우기](https://www.acmicpc.net/problem/2133)  |
+|  10  |   [n과 m(3)](https://www.acmicpc.net/problem/15651)   |
 
 ## 2020 -week4
-| 번호 |                                  문제                                  |
-| :--: | :--------------------------------------------------------------------: |
-|  1   | [문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057)              |
-|  2   | [괄호변환](https://programmers.co.kr/learn/courses/30/lessons/60058)                 |
-|  3   | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)           |
-|  4   | [수 정렬하기](https://www.acmicpc.net/problem/2750)              |
-|  5   | [수 정렬하기2](https://www.acmicpc.net/problem/2751)          |
-|  6   | [2048 (Easy)](https://www.acmicpc.net/problem/12100)              |
-|  7   | [한수](https://www.acmicpc.net/problem/1065)           |
-|  8   | [찾기](https://www.acmicpc.net/problem/1786)             |
-|  9   | [트리의 지름](https://www.acmicpc.net/problem/1167)              |
-|  10  | [개미굴](https://www.acmicpc.net/problem/14725)               |
 
+| 번호 |                                   문제                                    |
+| :--: | :-----------------------------------------------------------------------: |
+|  1   |  [문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057)   |
+|  2   |   [괄호변환](https://programmers.co.kr/learn/courses/30/lessons/60058)    |
+|  3   | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) |
+|  4   |            [수 정렬하기](https://www.acmicpc.net/problem/2750)            |
+|  5   |           [수 정렬하기2](https://www.acmicpc.net/problem/2751)            |
+|  6   |           [2048 (Easy)](https://www.acmicpc.net/problem/12100)            |
+|  7   |               [한수](https://www.acmicpc.net/problem/1065)                |
+|  8   |               [찾기](https://www.acmicpc.net/problem/1786)                |
+|  9   |            [트리의 지름](https://www.acmicpc.net/problem/1167)            |
+|  10  |              [개미굴](https://www.acmicpc.net/problem/14725)              |
 
 ## 2020 -week3
-| 번호 |                                  문제                                  |
-| :--: | :--------------------------------------------------------------------: |
-|  1   | [프린터큐](https://www.acmicpc.net/problem/1966)              |
-|  2   | [LCS](https://www.acmicpc.net/problem/9251)                 |
-|  3   | [N과 M(1)](https://www.acmicpc.net/problem/15649)           |
-|  4   | [스택 수열](https://www.acmicpc.net/problem/1874)              |
-|  5   | [회의실배정](https://www.acmicpc.net/problem/1931)            |
-|  6   | [운동](https://www.acmicpc.net/problem/1956)              |
-|  7   | [토마토](https://www.acmicpc.net/problem/7576)           |
-|  8   | [토마토(3차원)](https://www.acmicpc.net/problem/7569)             |
-|  9   | [단지번호붙이기](https://www.acmicpc.net/problem/2667)                  |
-|  10  | [나이순 정렬](https://www.acmicpc.net/problem/10814)        |
-|  11  | [별 찍기 - 10](https://www.acmicpc.net/problem/2447)        |
-|  12  | [상근이의 여행](https://www.acmicpc.net/problem/9372)        |
-|  13  | [찾기](https://www.acmicpc.net/problem/1786)             |
-|  14  | [트리의 지름](https://www.acmicpc.net/problem/1167)              |
-|  15  | [개미굴](https://www.acmicpc.net/problem/14725)               |
+
+| 번호 |                          문제                          |
+| :--: | :----------------------------------------------------: |
+|  1   |    [프린터큐](https://www.acmicpc.net/problem/1966)    |
+|  2   |      [LCS](https://www.acmicpc.net/problem/9251)       |
+|  3   |   [N과 M(1)](https://www.acmicpc.net/problem/15649)    |
+|  4   |   [스택 수열](https://www.acmicpc.net/problem/1874)    |
+|  5   |   [회의실배정](https://www.acmicpc.net/problem/1931)   |
+|  6   |      [운동](https://www.acmicpc.net/problem/1956)      |
+|  7   |     [토마토](https://www.acmicpc.net/problem/7576)     |
+|  8   | [토마토(3차원)](https://www.acmicpc.net/problem/7569)  |
+|  9   | [단지번호붙이기](https://www.acmicpc.net/problem/2667) |
+|  10  |  [나이순 정렬](https://www.acmicpc.net/problem/10814)  |
+|  11  |  [별 찍기 - 10](https://www.acmicpc.net/problem/2447)  |
+|  12  | [상근이의 여행](https://www.acmicpc.net/problem/9372)  |
+|  13  |      [찾기](https://www.acmicpc.net/problem/1786)      |
+|  14  |  [트리의 지름](https://www.acmicpc.net/problem/1167)   |
+|  15  |    [개미굴](https://www.acmicpc.net/problem/14725)     |
 
 ## 2020 -week2
-| 번호 |                                  문제                                  |
-| :--: | :--------------------------------------------------------------------: |
-|  1   | [팩토리얼](https://www.acmicpc.net/problem/10872)              |
-|  2   | [별 찍기 - 10](https://www.acmicpc.net/problem/2447)                 |
-|  3   | [손익분기점](https://www.acmicpc.net/problem/1712)           |
-|  4   | [설탕배달](https://www.acmicpc.net/problem/2839)              |
-|  5   | [전깃줄](https://www.acmicpc.net/problem/2565)            |
-|  6   | [계단 오르기](https://www.acmicpc.net/problem/2579)              |
-|  7   | [특정한 최단 경로](https://www.acmicpc.net/problem/1504)           |
-|  8   | [제로](https://www.acmicpc.net/problem/10773)             |
-|  9   | [괄호](https://www.acmicpc.net/problem/9012)                  |
-|  10  | [큐2](https://www.acmicpc.net/problem/18258)        |
-|  11  | [카드2](https://www.acmicpc.net/problem/2164)        |
-|  12  | [덱](https://www.acmicpc.net/problem/10866)        |
-|  13  | [AC](https://www.acmicpc.net/problem/5430)             |
-|  14  | [트리의 지름](https://www.acmicpc.net/problem/1167)              |
-|  15  | [시계 사진들](https://www.acmicpc.net/problem/10266)               |
+
+| 번호 |                           문제                           |
+| :--: | :------------------------------------------------------: |
+|  1   |    [팩토리얼](https://www.acmicpc.net/problem/10872)     |
+|  2   |   [별 찍기 - 10](https://www.acmicpc.net/problem/2447)   |
+|  3   |    [손익분기점](https://www.acmicpc.net/problem/1712)    |
+|  4   |     [설탕배달](https://www.acmicpc.net/problem/2839)     |
+|  5   |      [전깃줄](https://www.acmicpc.net/problem/2565)      |
+|  6   |   [계단 오르기](https://www.acmicpc.net/problem/2579)    |
+|  7   | [특정한 최단 경로](https://www.acmicpc.net/problem/1504) |
+|  8   |      [제로](https://www.acmicpc.net/problem/10773)       |
+|  9   |       [괄호](https://www.acmicpc.net/problem/9012)       |
+|  10  |       [큐2](https://www.acmicpc.net/problem/18258)       |
+|  11  |      [카드2](https://www.acmicpc.net/problem/2164)       |
+|  12  |       [덱](https://www.acmicpc.net/problem/10866)        |
+|  13  |        [AC](https://www.acmicpc.net/problem/5430)        |
+|  14  |   [트리의 지름](https://www.acmicpc.net/problem/1167)    |
+|  15  |   [시계 사진들](https://www.acmicpc.net/problem/10266)   |
 
 ## 2020 - week1
 
-| 번호 |                                  문제                                  |
-| :--: | :--------------------------------------------------------------------: |
-|  1   | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)              |
-|  2   | [피보나치 수 5](https://www.acmicpc.net/problem/10870)                 |
-|  3   | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)           |
-|  4   | [단어 정렬](https://www.acmicpc.net/problem/1181)              |
-|  5   | [피보나치 수 2](https://www.acmicpc.net/problem/2748)            |
-|  6   | [RGB 거리](https://www.acmicpc.net/problem/1149)              |
-|  7   | [정수 삼각형](https://www.acmicpc.net/problem/1932)           |
-|  8   | [동전 0](https://www.acmicpc.net/problem/11047)             |
-|  9   | [ATM](https://www.acmicpc.net/problem/11399)                  |
-|  10  | [잃어버린 괄호](https://www.acmicpc.net/problem/1541)        |
-|  11  | [토마토](https://www.acmicpc.net/problem/7569)        |
-|  12  | [숨바꼭질](https://www.acmicpc.net/problem/1697)        |
-|  13  | [최단경로](https://www.acmicpc.net/problem/1753)             |
-|  14  | [최대힙](https://www.acmicpc.net/problem/11279)              |
-|  15  | [최소힙](https://www.acmicpc.net/problem/1927)               |
-|  16  | [절대값 힙](https://www.acmicpc.net/problem/11286)        |
-|  17  | [가운데를 말해요](https://www.acmicpc.net/problem/1655)        |
-|  18  | [트리 순회](https://www.acmicpc.net/problem/1991)        |
-|  19  | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)        |
-|  20  | [단어의 개수](https://www.acmicpc.net/problem/1152)        |
-
+| 번호 |                             문제                             |
+| :--: | :----------------------------------------------------------: |
+|  1   |  [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)  |
+|  2   |    [피보나치 수 5](https://www.acmicpc.net/problem/10870)    |
+|  3   | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) |
+|  4   |      [단어 정렬](https://www.acmicpc.net/problem/1181)       |
+|  5   |    [피보나치 수 2](https://www.acmicpc.net/problem/2748)     |
+|  6   |       [RGB 거리](https://www.acmicpc.net/problem/1149)       |
+|  7   |     [정수 삼각형](https://www.acmicpc.net/problem/1932)      |
+|  8   |       [동전 0](https://www.acmicpc.net/problem/11047)        |
+|  9   |         [ATM](https://www.acmicpc.net/problem/11399)         |
+|  10  |    [잃어버린 괄호](https://www.acmicpc.net/problem/1541)     |
+|  11  |        [토마토](https://www.acmicpc.net/problem/7569)        |
+|  12  |       [숨바꼭질](https://www.acmicpc.net/problem/1697)       |
+|  13  |       [최단경로](https://www.acmicpc.net/problem/1753)       |
+|  14  |       [최대힙](https://www.acmicpc.net/problem/11279)        |
+|  15  |        [최소힙](https://www.acmicpc.net/problem/1927)        |
+|  16  |      [절대값 힙](https://www.acmicpc.net/problem/11286)      |
+|  17  |   [가운데를 말해요](https://www.acmicpc.net/problem/1655)    |
+|  18  |      [트리 순회](https://www.acmicpc.net/problem/1991)       |
+|  19  |  [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)   |
+|  20  |     [단어의 개수](https://www.acmicpc.net/problem/1152)      |
 
 ## week8
 
