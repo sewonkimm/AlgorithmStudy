@@ -1,5 +1,4 @@
-// 백트래킹으로 구현
-// 시간초과
+// 백트래킹으로 구현 👉 성공!!!
 
 #include <iostream>
 #include <vector>
@@ -28,7 +27,6 @@ void candy(int x, int y, int n, vector<int> visit, int sum)
             visit[i] = 1;
             candy(i, y + 1, n, visit, sum + map[y][i]);
             visit[i] = 0;
-            candy(i, y + 1, n, visit, sum);
         }
     }
 }
