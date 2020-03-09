@@ -4,7 +4,7 @@
 
 | 번호 |                           문제                            |
 | :--: | :-------------------------------------------------------: |
-|  1   |  [그림판 채우기](https://codeup.kr/problem.php?id=2601)    |
+|  1   |  [그림판 채우기](https://codeup.kr/problem.php?id=2610)    |
 |  2   |    [사탕 줍기 1](https://codeup.kr/problem.php?id=3703)    |
 |  3   |     [회의 준비](https://codeup.kr/problem.php?id=4058)     |
 |  4   | [최장 경로 하노이탑](https://codeup.kr/problem.php?id=2688) |
