@@ -2,19 +2,18 @@
 
 ## 2020 -week8
 
-| 번호 |                           문제                            |
-| :--: | :-------------------------------------------------------: |
-|  1   |  [그림판 채우기](https://codeup.kr/problem.php?id=2610)    |
-|  2   |    [사탕 줍기 1](https://codeup.kr/problem.php?id=3703)    |
-|  3   |     [회의 준비](https://codeup.kr/problem.php?id=4058)     |
+| 번호 |                            문제                             |
+| :--: | :---------------------------------------------------------: |
+|  1   |   [그림판 채우기](https://codeup.kr/problem.php?id=2610)    |
+|  2   |    [사탕 줍기 1](https://codeup.kr/problem.php?id=3703)     |
+|  3   |     [회의 준비](https://codeup.kr/problem.php?id=4508)      |
 |  4   | [최장 경로 하노이탑](https://codeup.kr/problem.php?id=2688) |
-|  5   | [극장 좌석 배치 2](https://codeup.kr/problem.php?id=2652)  |
-|  6   |   [파스칼 삼각형](https://codeup.kr/problem.php?id=3701)   |
-|  7   |    [일곱 난쟁이](https://codeup.kr/problem.php?id=3008)   |
-|  8   |    [파스타](https://codeup.kr/problem.php?id=3750)        |
-|  9   |  [기억력테스트5](https://codeup.kr/problem.php?id=3210)   |
-|  10  |    [1의 개수는? 3](https://codeup.kr/problem.php?id=3711) |
-
+|  5   |  [극장 좌석 배치 2](https://codeup.kr/problem.php?id=2652)  |
+|  6   |   [파스칼 삼각형](https://codeup.kr/problem.php?id=3701)    |
+|  7   |    [일곱 난쟁이](https://codeup.kr/problem.php?id=3008)     |
+|  8   |       [파스타](https://codeup.kr/problem.php?id=3750)       |
+|  9   |   [기억력테스트5](https://codeup.kr/problem.php?id=3210)    |
+|  10  |   [1의 개수는? 3](https://codeup.kr/problem.php?id=3711)    |
 
 ## 2020 -week7
 
