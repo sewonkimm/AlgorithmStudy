@@ -1,5 +1,20 @@
 # 알고리즘 스터디
 
+## 2020 -week9
+
+| 번호 |                            문제                             |
+| :--: | :---------------------------------------------------------: |
+|  1   |   [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) |
+|  2   |    [영화감독 숌](https://www.acmicpc.net/problem/1436)      |
+|  3   |     [수 정렬하기 3](https://www.acmicpc.net/problem/10989)  |
+|  4   |     [N과 M (2)](https://www.acmicpc.net/problem/15650)     |
+|  5   |    [N과 M (3)](https://www.acmicpc.net/problem/15651)      |
+|  6   |   [N과 M (12)](https://www.acmicpc.net/problem/15666)      |
+|  7   |  [스타트와 링크](https://www.acmicpc.net/problem/14889)     |
+|  8   |     [촌수계산](https://www.acmicpc.net/problem/2644)       |
+|  9   |   [로봇 청소기](https://www.acmicpc.net/problem/14503)    |
+
+
 ## 2020 -week8
 
 | 번호 |                            문제                             |
