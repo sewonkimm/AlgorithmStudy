@@ -1,5 +1,3 @@
-// 틀렸습니다
-
 #include <iostream>
 #include <vector>
 
@@ -10,7 +8,7 @@ int m;
 int a, b;
 int answer = -1;
 int d[101][101];
-int visit[101][101];
+int visit[101];
 
 void calculate(int x, int count)
 {
@@ -29,9 +27,9 @@ void calculate(int x, int count)
 
     for (int i = 1; i <= n; i++)
     {
-        if (d[x][i] && !visit[x][i])
+        if (d[x][i] && !visit[i])
         {
-            visit[x][i] = 1;
+            visit[i] = 1;
             calculate(i, count + 1);
         }
     }
@@ -56,6 +54,7 @@ int main()
         d[y][x] = 1;
     }
 
+    visit[a] = 1;
     calculate(a, 0);
 
     printf("%d\n", answer);
