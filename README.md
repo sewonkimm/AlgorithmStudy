@@ -12,7 +12,7 @@
 |  6   |   [N과 M (12)](https://www.acmicpc.net/problem/15666)      |
 |  7   |  [스타트와 링크](https://www.acmicpc.net/problem/14889)     |
 |  8   |     [촌수계산](https://www.acmicpc.net/problem/2644)       |
-|  9   |   [로봇 청소기](https://www.acmicpc.net/problem/14503)    |
+|  9   |    [로봇 청소기](https://www.acmicpc.net/problem/14503)    |
 
 
 ## 2020 -week8
