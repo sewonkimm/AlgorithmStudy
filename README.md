@@ -1,5 +1,19 @@
 # 알고리즘 스터디
 
+## 2020 -week10
+
+| 번호 |                            문제                             |
+| :--: | :---------------------------------------------------------: |
+|  1   |   [좌표 정렬하기](https://www.acmicpc.net/problem/11650)     |
+|  2   |    [좌표 정렬하기2](https://www.acmicpc.net/problem/11651)   |
+|  3   |   [크로아티아 알파벳](https://www.acmicpc.net/problem/2941)  |
+|  4   |     [단어 정렬](https://www.acmicpc.net/problem/1181)       |
+|  5   |    [검문](https://www.acmicpc.net/problem/2981)             |
+|  6   |   [다이얼](https://www.acmicpc.net/problem/5622)            |
+|  7   |  [스타트링크](https://www.acmicpc.net/problem/5014)          |
+|  8   |     [안전 영역](https://www.acmicpc.net/problem/2468)       |
+|  9   |       [동물원](https://www.acmicpc.net/problem/1309)        |
+
 ## 2020 -week9
 
 | 번호 |                            문제                             |
