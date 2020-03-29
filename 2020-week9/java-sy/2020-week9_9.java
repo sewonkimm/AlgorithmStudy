@@ -44,9 +44,9 @@ public class RobotCleaner_14503 {
 					visit[nXX][nYY] = true;
 					count++;
 					break;
-				}else {
-					cc++;
 				}
+				
+				cc++;
 				dd = nDD;
 			}
 			
