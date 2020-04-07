@@ -1,33 +1,44 @@
 # 알고리즘 스터디
 
+## 2019 kakao
+
+[카카오 개발자 겨울 인턴십](https://tech.kakao.com/2020/04/01/2019-internship-test/) 문제
+
+| 번호 |                                       문제                                       |
+| :--: | :------------------------------------------------------------------------------: |
+|  1   | [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) |
+|  2   |         [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)         |
+|  3   |     [불량 사용자](https://programmers.co.kr/learn/courses/30/lessons/64064)      |
+|  4   |     [호텔 방 배정](https://programmers.co.kr/learn/courses/30/lessons/64063)     |
+|  5   |   [징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062)    |
+
 ## 2020 -week10
 
-| 번호 |                            문제                             |
-| :--: | :---------------------------------------------------------: |
-|  1   |   [좌표 정렬하기](https://www.acmicpc.net/problem/11650)     |
-|  2   |    [좌표 정렬하기2](https://www.acmicpc.net/problem/11651)   |
-|  3   |   [크로아티아 알파벳](https://www.acmicpc.net/problem/2941)  |
-|  4   |     [단어 정렬](https://www.acmicpc.net/problem/1181)       |
-|  5   |    [검문](https://www.acmicpc.net/problem/2981)             |
-|  6   |   [다이얼](https://www.acmicpc.net/problem/5622)            |
-|  7   |  [스타트링크](https://www.acmicpc.net/problem/5014)          |
-|  8   |     [안전 영역](https://www.acmicpc.net/problem/2468)       |
-|  9   |       [동물원](https://www.acmicpc.net/problem/1309)        |
+| 번호 |                           문제                            |
+| :--: | :-------------------------------------------------------: |
+|  1   |  [좌표 정렬하기](https://www.acmicpc.net/problem/11650)   |
+|  2   |  [좌표 정렬하기2](https://www.acmicpc.net/problem/11651)  |
+|  3   | [크로아티아 알파벳](https://www.acmicpc.net/problem/2941) |
+|  4   |     [단어 정렬](https://www.acmicpc.net/problem/1181)     |
+|  5   |       [검문](https://www.acmicpc.net/problem/2981)        |
+|  6   |      [다이얼](https://www.acmicpc.net/problem/5622)       |
+|  7   |    [스타트링크](https://www.acmicpc.net/problem/5014)     |
+|  8   |     [안전 영역](https://www.acmicpc.net/problem/2468)     |
+|  9   |      [동물원](https://www.acmicpc.net/problem/1309)       |
 
 ## 2020 -week9
 
-| 번호 |                            문제                             |
-| :--: | :---------------------------------------------------------: |
-|  1   |   [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) |
-|  2   |    [영화감독 숌](https://www.acmicpc.net/problem/1436)      |
-|  3   |     [수 정렬하기 3](https://www.acmicpc.net/problem/10989)  |
+| 번호 |                            문제                            |
+| :--: | :--------------------------------------------------------: |
+|  1   | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) |
+|  2   |    [영화감독 숌](https://www.acmicpc.net/problem/1436)     |
+|  3   |   [수 정렬하기 3](https://www.acmicpc.net/problem/10989)   |
 |  4   |     [N과 M (2)](https://www.acmicpc.net/problem/15650)     |
-|  5   |    [N과 M (3)](https://www.acmicpc.net/problem/15651)      |
-|  6   |   [N과 M (12)](https://www.acmicpc.net/problem/15666)      |
-|  7   |  [스타트와 링크](https://www.acmicpc.net/problem/14889)     |
-|  8   |     [촌수계산](https://www.acmicpc.net/problem/2644)       |
+|  5   |     [N과 M (3)](https://www.acmicpc.net/problem/15651)     |
+|  6   |    [N과 M (12)](https://www.acmicpc.net/problem/15666)     |
+|  7   |   [스타트와 링크](https://www.acmicpc.net/problem/14889)   |
+|  8   |      [촌수계산](https://www.acmicpc.net/problem/2644)      |
 |  9   |    [로봇 청소기](https://www.acmicpc.net/problem/14503)    |
-
 
 ## 2020 -week8
 
