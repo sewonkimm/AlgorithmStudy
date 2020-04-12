@@ -1,5 +1,19 @@
 # 알고리즘 스터디
 
+## 2020 -week12
+
+| 번호 |                                       문제                                |
+| :--: | :----------------------------------------------------------------------: |
+|  1   |     [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)     |
+|  2   |  [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)   |
+|  3   |              [동물원](https://www.acmicpc.net/problem/1309)              |
+|  4   |  [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236)     |
+|  5   |       [예산](https://programmers.co.kr/learn/courses/30/lessons/43237)    |
+|  6   |            [명령 프롬프트](https://www.acmicpc.net/problem/1032)          |
+|  7   |              [다이얼](https://www.acmicpc.net/problem/5622)              |
+|  8   |           [임진왜란](https://www.acmicpc.net/problem/3077)               |
+|  9   |       [공유기 설치](https://www.acmicpc.net/problem/2110)                |
+
 ## 2019 kakao
 
 [카카오 개발자 겨울 인턴십](https://tech.kakao.com/2020/04/01/2019-internship-test/) 문제
