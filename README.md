@@ -1,18 +1,10 @@
 # 알고리즘 스터디
 
-## 2020 -week13
+## 2020 -week13 카카오 기출
 
-| 번호 |                                       문제                                |
-| :--: | :----------------------------------------------------------------------: |
-|  1   |          [차이를 최소로](https://www.acmicpc.net/problem/3090)            |
-|  2   |             [토너먼트](https://www.acmicpc.net/problem/1057)              |
-|  3   |              [듣보잡](https://www.acmicpc.net/problem/1764)              |
-|  4   |           [블록 껍질](https://www.acmicpc.net/problem/1708)              |
-|  5   |            [줄 세우기](https://www.acmicpc.net/problem/2252)             |
-|  6   |                [집합](https://www.acmicpc.net/problem/11723)            |
-|  7   |           [N번째 큰 수](https://www.acmicpc.net/problem/2075)           |
-|  8   |  [외계인의 기타 연주](https://www.acmicpc.net/problem/2841) 나비보벳따우~  |
-|  9   |    [올바른 괄호 문자열](https://www.acmicpc.net/problem/3012)             |
+카카오 기출 1주일에 1문제 
+
+🎈[압축](https://programmers.co.kr/learn/courses/30/lessons/17684)
 
 
 ## 2020 -week12
