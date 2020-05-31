@@ -13,6 +13,10 @@
 4. 와일드카드 문자는 무조건 통과
 */
 
+/*
+효율성 > 문자열 검색 Trie(트라이)알고리즘 or 이분탐색
+*/
+
 #include <string>
 #include <vector>
 
