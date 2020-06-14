@@ -1,22 +1,13 @@
 # 알고리즘 스터디
 
-## 2020 -week16 카카오 기출
+## 카카오 기출 - 1주일에 1문제
 
-🍔[무지의 먹방 라이브](https://programmers.co.kr/learn/courses/30/lessons/42891)
+- 🉑[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
+- 🍔[무지의 먹방 라이브](https://programmers.co.kr/learn/courses/30/lessons/42891)
+- 🍀 [가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060)
+- 👛[캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)
+- 🎈[압축](https://programmers.co.kr/learn/courses/30/lessons/17684)
 
-## 2020 -week15 카카오 기출
-
-🍀 [가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060)
-
-## 2020 -week14 카카오 기출
-
-👛[캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)
-
-## 2020 -week13 카카오 기출
-
-카카오 기출 1주일에 1문제
-
-🎈[압축](https://programmers.co.kr/learn/courses/30/lessons/17684)
 
 ## 2020 -week12
 
